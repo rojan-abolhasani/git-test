@@ -4,6 +4,7 @@ main()
 {
 	char str1[N];
 	int n, i, max=0, j, letter=0, k, flag=1;
+	#salammama!!!
 	scanf("%d", &n);
 	for (i=0;i<n;i++)
 	{
